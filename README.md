@@ -1,6 +1,6 @@
 # BiTBesT: An App that Rates Crypto 
 
-The purpose of this BiTBesT project is to create a rating system for cryptocurrencies. Many individuals and institutions have lost money recently due to bad crypto purchases. 
+The purpose of this BiTBesT project is to create a rating system for cryptocurrencies. Many individuals and institutions have lost money recently due to bad crypto purchases. Our app is designed to popularize a new rating system to help mitigate risk. 
 
 # A rating system helps mitigate risk  
 
